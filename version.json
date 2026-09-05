@@ -1,12 +1,12 @@
 {
-  "versionCode": 29,
-  "versionName": "1.3.6",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.6/babyjournal-1.3.6.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.6/babyjournal-1.3.6.apk",
-  "size": 52455366,
-  "sha256": "056f6395cc7c581d744468078e8da1ce46578fca2e59c6de7cd81ed6ab6ef01f",
+  "versionCode": 30,
+  "versionName": "1.3.7",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.7/babyjournal-1.3.7.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.7/babyjournal-1.3.7.apk",
+  "size": 52455446,
+  "sha256": "e7caac5bfd938bbc47b05c998950b5edafcb4c8004984c0b931fc42cd69a7d54",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "时间线日期切换不再触发隐藏动效，仅手动滑动信息流时隐藏日历模块；优化漫游日期展示与眼睛图标交互。",
-  "publishedAt": "2026-09-05 23:58:25"
+  "notes": "同步最新漫游交互、时间线滚动体验与日期展示优化。",
+  "publishedAt": "2026-09-06 00:10:47"
 }
