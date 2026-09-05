@@ -1,11 +1,11 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.8",
-  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.8/babyjournal-1.1.8.apk",
+  "versionCode": 12,
+  "versionName": "1.1.9",
+  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.9/babyjournal-1.1.9.apk",
   "size": 51512596,
-  "sha256": "8186f2cfdbb6373bbed2c4c4135d4fb8ae12e14e569bf45c4abd7fbcb2bd5c7e",
+  "sha256": "28856a5080a7ad872e599e668591a0008f9253832e61886be4b157a2526aade6",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "1、信息流去掉重复文案，保存时toast提示 2、优化详情布局间距 3、切换日历选中线框跟随更新 4、本月视图切换日期保持页面位置 5、空日期改为右下角小+图标",
-  "publishedAt": "2026-09-05 17:56:24"
+  "notes": "1、麦克风未授权弹窗提醒并支持跳转系统设置 2、日历空日期小+图标缩小并紧贴右下角 3、去掉已记录文案、优化详情布局间距 4、保存记录后定位到该日期展示位置",
+  "publishedAt": "2026-09-05 18:10:25"
 }
