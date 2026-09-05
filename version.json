@@ -3,10 +3,10 @@
   "versionName": "1.3.4",
   "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.4/babyjournal-1.3.4.apk",
   "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.4/babyjournal-1.3.4.apk",
-  "size": 52455213,
-  "sha256": "2674079147ba6bbd2e1465426b90dd9d4fc3d8fdb79d55ac3ea7325fec8b15af",
+  "size": 52455290,
+  "sha256": "a5d9fb4e23cb57b9ec2204765631983785d0ee427acdc8ea4974f7df2d2a7f4e",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "时间线末节点连接线延伸至卡片底部；保留无记录时的今日添加入口，并继续支持今日缺失时置顶入口。",
-  "publishedAt": "2026-09-05 23:28:31"
+  "notes": "漫游视觉与交互优化：修复日历模块完整收起、专业展开图标、扇形甩出式切换动画，并优化漫游文案。",
+  "publishedAt": "2026-09-05 23:40:34"
 }
