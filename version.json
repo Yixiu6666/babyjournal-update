@@ -1,11 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.5",
-  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.5/babyjournal-1.1.5.apk",
-  "size": 50590836,
-  "sha256": "34ebfc284bcf8c03129d4b2b4f4b05a21c31601f9e5f40d2101e31397df40c11",
+  "versionCode": 10,
+  "versionName": "1.1.7",
+  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.7/babyjournal-1.1.7.apk",
+  "size": 51512596,
+  "sha256": "a6d2cdc50633c53f263973f92af0a4e872269a03f35ca75aa5f21d52f96a4688",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "v1.1.5：修复保存宝宝信息后闪退（sub TextView重复添加parent）",
-  "publishedAt": "2026-09-05 17:28:19"
+  "notes": "v1.1.7：设置后移除内联按钮、头像圆角方形+间距、补录仅历史日期、语音识别兼容、编辑器预览区域按需显示",
+  "publishedAt": "2026-09-05 17:45:54"
 }
