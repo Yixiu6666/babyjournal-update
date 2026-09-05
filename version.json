@@ -1,12 +1,12 @@
 {
-  "versionCode": 31,
-  "versionName": "1.3.8",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.8/babyjournal-1.3.8.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.8/babyjournal-1.3.8.apk",
+  "versionCode": 32,
+  "versionName": "1.3.9",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.9/babyjournal-1.3.9.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.9/babyjournal-1.3.9.apk",
   "size": 52455446,
-  "sha256": "e67b7882339a0d4143a2021f3e1b63cb24b94eff32a43eaf714213d6509ef010",
+  "sha256": "6e0dd6706cdc10250ea5bb918ce5fd33ab6725771cfaee784ab7681cb820ab87",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "修复时间线上滑时信息流抖动：日历隐藏改为纯位移不再改变列表布局，滚动判定增加限幅与动画冷却，隐藏/回显不再互相打架。",
-  "publishedAt": "2026-09-06 00:18:33"
+  "notes": "同步最新漫游与时间线体验优化。",
+  "publishedAt": "2026-09-06 00:24:12"
 }
