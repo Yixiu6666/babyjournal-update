@@ -1,12 +1,12 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.0",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.0/babyjournal-1.2.0.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.0/babyjournal-1.2.0.apk",
-  "size": 51512596,
-  "sha256": "ec7425072a4f2657b4a721e7bbfa26dc69d1c13ba55259e7e403742bf96855e4",
+  "versionCode": 16,
+  "versionName": "1.2.3",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.3/babyjournal-1.2.3.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.3/babyjournal-1.2.3.apk",
+  "size": 51516849,
+  "sha256": "7797559ed58fcaa90f80dd75423fba224e8e45f46655ce7184b8cf423ca7cabe",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "更新下载源迁移至 Gitee（国内高速下载），GitHub 作为备用镜像。主链接失败时自动切换镜像下载。",
-  "publishedAt": "2026-09-05 19:29:33"
+  "notes": "支持从相册选择视频；优化添加弹窗中媒体预览与替换按钮间距。",
+  "publishedAt": "2026-09-05 20:28:35"
 }
