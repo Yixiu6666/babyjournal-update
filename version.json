@@ -1,11 +1,11 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.2",
-  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.2/babyjournal-1.1.2.apk",
+  "versionCode": 6,
+  "versionName": "1.1.3",
+  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.3/babyjournal-1.1.3.apk",
   "size": 50590836,
-  "sha256": "2f12ba96708794443260edbaf2a23a2012cacce85b4c83df341a578b359ade94",
+  "sha256": "3852e44344b63e70db8fdd573123e571829f93e97c029f02b196034b59ea9de5",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "v1.1.2：信息流文案仅最新日期展示、日历点击定位/补录、编辑器预览点击+视频播放图标、信息流末尾今日引导、修复宝宝信息保存闪退",
-  "publishedAt": "2026-09-05 17:05:30"
+  "notes": "v1.1.3：修复启动闪退（JournalStore.all空指针、头像选择request code冲突、保存后render时机）",
+  "publishedAt": "2026-09-05 17:13:11"
 }
