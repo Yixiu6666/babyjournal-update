@@ -1,12 +1,12 @@
 {
-  "versionCode": 27,
-  "versionName": "1.3.4",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.4/babyjournal-1.3.4.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.4/babyjournal-1.3.4.apk",
+  "versionCode": 28,
+  "versionName": "1.3.5",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.5/babyjournal-1.3.5.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.5/babyjournal-1.3.5.apk",
   "size": 52455366,
-  "sha256": "b34115e4f9cd56f6f4e616e205e8e725bb62ab44678dad713fba3698388a5cec",
+  "sha256": "c4a551844a172596e90982cde88bd71c6e63271e2dedc803656f1964b904a297",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "漫游日期信息优化：年份始终展示，月日与星期默认打码，点击专业眼睛图标后显示完整日期。",
-  "publishedAt": "2026-09-05 23:43:09"
+  "notes": "漫游日期信息优化：年份始终展示，月日与星期默认打码，点击专业眼睛图标后显示完整日期；同步优化漫游切换动效与日历收起体验。",
+  "publishedAt": "2026-09-05 23:47:27"
 }
