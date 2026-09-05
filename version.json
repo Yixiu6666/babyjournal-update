@@ -1,12 +1,12 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.8",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.8/babyjournal-1.2.8.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.8/babyjournal-1.2.8.apk",
+  "versionCode": 22,
+  "versionName": "1.2.9",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.9/babyjournal-1.2.9.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.9/babyjournal-1.2.9.apk",
   "size": 51520945,
-  "sha256": "b9eef6e71546bba0e81cd0e7957d2e7a1367c964c8a9d4265b3b20c7631a2270",
+  "sha256": "66b7f94f296916d72f99e5e68aabb801b94811a5224a56e05ce1edcd3abfed2b",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "统一时间线与里程碑信息流样式；里程碑用左侧星标表示；每条记录的三个点改为底部操作弹窗；优化日历浮层隐藏、封面加载缓存和日历模块间距。",
-  "publishedAt": "2026-09-05 21:31:31"
+  "notes": "修复日历回显背景、日历箭头尺寸与对齐；恢复顶部更多入口；优化信息流三个点对齐；记录操作面板改为真正底部弹出和下收关闭；滑到列表顶部或底部时自动回显隐藏栏。",
+  "publishedAt": "2026-09-05 21:46:15"
 }
