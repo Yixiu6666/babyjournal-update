@@ -3,10 +3,10 @@
   "versionName": "1.3.3",
   "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.3/babyjournal-1.3.3.apk",
   "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.3/babyjournal-1.3.3.apk",
-  "size": 51525259,
-  "sha256": "2833f9e03e2ebfb42db3cc11905e6aea6e3a7e0dcf16dfec2049dc46b5682790",
+  "size": 52455213,
+  "sha256": "12646516f1e7585117b0d939ca5747d581374d638e7b053537b71e15ee57feff",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "信息流更多图标缩小三分之一并与内容右对齐；滑到底部新增轻提示「已经到底啦」；更多操作里编辑与删除统一为图标+文本结构。",
-  "publishedAt": "2026-09-05 23:00:43"
+  "notes": "时间线今日入口与空态优化：今日缺失时置顶添加入口，今日已有记录时移除底部重复入口，时间线节点贯穿连接；漫游与里程碑空态统一使用指定插图。",
+  "publishedAt": "2026-09-05 23:24:30"
 }
