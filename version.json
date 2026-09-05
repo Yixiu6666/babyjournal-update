@@ -1,12 +1,12 @@
 {
-  "versionCode": 18,
-  "versionName": "1.2.5",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.5/babyjournal-1.2.5.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.5/babyjournal-1.2.5.apk",
+  "versionCode": 19,
+  "versionName": "1.2.6",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.6/babyjournal-1.2.6.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.6/babyjournal-1.2.6.apk",
   "size": 51520945,
-  "sha256": "daedc2822096b96847a1274a437fc4f2c7f6487abf1b780229e31d82a730e2ba",
+  "sha256": "dbe1023c71a97d60593e37b1924aa63c5378d58249c433a5ad90762b57301371",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "优化图片和视频预览手势，支持点击或下滑关闭；调整今天日期标记、日历横条间距；信息流滚动时隐藏日历和底部栏；优化记录保存时间布局。",
-  "publishedAt": "2026-09-05 20:56:23"
+  "notes": "修复信息流滚动隐藏日历和底部栏时的空白占位；优化预览关闭手势和下滑关闭动画；允许只保存图片或视频不填文字；恢复并优化保存时间展示。",
+  "publishedAt": "2026-09-05 21:07:22"
 }
