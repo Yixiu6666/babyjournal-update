@@ -1,12 +1,12 @@
 {
-  "versionCode": 24,
-  "versionName": "1.3.1",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.1/babyjournal-1.3.1.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.1/babyjournal-1.3.1.apk",
+  "versionCode": 25,
+  "versionName": "1.3.2",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.2/babyjournal-1.3.2.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.2/babyjournal-1.3.2.apk",
   "size": 51525041,
-  "sha256": "4d44b6024eb5383acd534444f309fef5178c90ecfc681e66fc43ac8b71bb66c1",
+  "sha256": "a0659005af5db123e15db14223da2b9c5115628d8526a303361b417dee71f223",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "日历左右箭头缩小；信息流一开滑即隐藏日历与底部栏；重做图片预览缩放（双击缩放、边缘回弹、点按关闭）；更多弹窗不再引起状态栏隐藏导致的闪烁；日期行与时间线圆点、更多图标居中对齐；里程碑信息流顶部增加留白。",
-  "publishedAt": "2026-09-05 22:32:50"
+  "notes": "「更多」弹窗新增删除入口（二次确认，可在最近删除恢复）；三个点换成标准更多图标；里程碑信息流滑动隐藏与时间线保持一致；日历左右箭头再缩小并减细；取消日期文字的点击跳转。",
+  "publishedAt": "2026-09-05 22:47:45"
 }
