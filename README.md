@@ -5,5 +5,5 @@
 - `version.json`：更新清单，App 读取地址 `https://raw.githubusercontent.com/Yixiu6666/babyjournal-update/main/version.json`
 - Releases 附件：安装包本体
 
-仓库为公开，因为 raw.githubusercontent.com 不支持未认证访问私有仓库；
-其中不含任何个人数据，应用本身无账号、无云同步。
+主下载源：Gitee（国内高速）
+备用下载：GitHub Releases
