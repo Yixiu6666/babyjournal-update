@@ -1,12 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.9",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.1.9/babyjournal-1.1.9.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.9/babyjournal-1.1.9.apk",
+  "versionCode": 13,
+  "versionName": "1.2.0",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.2.0/babyjournal-1.2.0.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.2.0/babyjournal-1.2.0.apk",
   "size": 51512596,
-  "sha256": "28856a5080a7ad872e599e668591a0008f9253832e61886be4b157a2526aade6",
+  "sha256": "ec7425072a4f2657b4a721e7bbfa26dc69d1c13ba55259e7e403742bf96855e4",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "1、麦克风未授权弹窗提醒并支持跳转系统设置 2、日历空日期小+图标缩小并紧贴右下角 3、去掉已记录文案、优化详情布局间距 4、保存记录后定位到该日期展示位置",
-  "publishedAt": "2026-09-05 19:26:55"
+  "notes": "更新下载源迁移至 Gitee（国内高速下载），GitHub 作为备用镜像。主链接失败时自动切换镜像下载。",
+  "publishedAt": "2026-09-05 19:29:33"
 }
