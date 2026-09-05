@@ -4,9 +4,9 @@
   "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.10/babyjournal-1.3.10.apk",
   "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.10/babyjournal-1.3.10.apk",
   "size": 52459542,
-  "sha256": "d2421a41e4733dea7eb6242806c2eb7475b257c0f60f5d3d7a6d48ec308f6103",
+  "sha256": "60913e6a0392aeaad92cf77849516871c9e2731af40ac332400558e56362f23c",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
   "notes": "优化漫游日期提示、信息流底部引导与图片清晰度及存储体验。",
-  "publishedAt": "2026-09-06 00:38:50"
+  "publishedAt": "2026-09-06 00:41:11"
 }
