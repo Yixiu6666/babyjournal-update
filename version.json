@@ -1,12 +1,12 @@
 {
-  "versionCode": 23,
-  "versionName": "1.3.0",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.0/babyjournal-1.3.0.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.0/babyjournal-1.3.0.apk",
+  "versionCode": 24,
+  "versionName": "1.3.1",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.1/babyjournal-1.3.1.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.1/babyjournal-1.3.1.apk",
   "size": 51525041,
-  "sha256": "9d6acb5ef8fcc124d36ec76a7c2aee147c26bd214203da10bb7516651107f520",
+  "sha256": "4d44b6024eb5383acd534444f309fef5178c90ecfc681e66fc43ac8b71bb66c1",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "重做滑动隐藏逻辑（下滑隐藏、上滑回显、到顶到底自动回显，不再卡住或闪烁）；日历滑块条与日期格子留出间距，信息流首条日期也增加了留白；左右箭头改为画布绘制的箭头，与年月严格垂直居中且不再被裁切。",
-  "publishedAt": "2026-09-05 22:15:42"
+  "notes": "日历左右箭头缩小；信息流一开滑即隐藏日历与底部栏；重做图片预览缩放（双击缩放、边缘回弹、点按关闭）；更多弹窗不再引起状态栏隐藏导致的闪烁；日期行与时间线圆点、更多图标居中对齐；里程碑信息流顶部增加留白。",
+  "publishedAt": "2026-09-05 22:32:50"
 }
