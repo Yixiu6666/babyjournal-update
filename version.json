@@ -1,11 +1,11 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.0.0/babyjournal-1.0.0.apk",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.0.1/babyjournal-1.0.1.apk",
   "size": 50574452,
-  "sha256": "828c2a38f3a6d5c5c065085922be7649f18a8ec21aebaa9d68c4e2c5fb3b2d37",
+  "sha256": "fd57aff664d1c1c4a7ee1ddcd1bb3cd44faaea2f9c1ae0804569cb469efea522",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "首个真机版本：今日/本月/里程碑三视图、离线语音转写、导出与恢复",
-  "publishedAt": "2026-09-05 15:39:11"
+  "notes": "右上角换成标准「更多」图标；设置新增「检查更新」，可手动检查并安装新版本",
+  "publishedAt": "2026-09-05 15:44:31"
 }
