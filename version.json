@@ -1,11 +1,11 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.0",
-  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.0/babyjournal-1.1.0.apk",
+  "versionCode": 4,
+  "versionName": "1.1.1",
+  "url": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.1.1/babyjournal-1.1.1.apk",
   "size": 50586740,
-  "sha256": "6a9685233ad1114f2c0e2a53381435b6260b37eaeffc75ce2faeb78801b0b56f",
+  "sha256": "3bb3c91e2a63d2cf684ef6529fb8186648136e290b6f096269307164f0abdee9",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "v1.1.0：新增下载进度条、系统语音识别、设置弹窗图标、宝宝信息设置（头像/昵称/出生日期/年龄展示）、相册选择替代文件选择器",
-  "publishedAt": "2026-09-05 16:35:56"
+  "notes": "v1.1.1：预览点击任意位置关闭、今日tab改为信息流展示、编辑器封面预览比例与发布后一致",
+  "publishedAt": "2026-09-05 16:45:28"
 }
