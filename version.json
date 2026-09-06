@@ -1,12 +1,12 @@
 {
-  "versionCode": 33,
-  "versionName": "1.3.10",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.10/babyjournal-1.3.10.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.10/babyjournal-1.3.10.apk",
-  "size": 52459542,
-  "sha256": "60913e6a0392aeaad92cf77849516871c9e2731af40ac332400558e56362f23c",
+  "versionCode": 34,
+  "versionName": "1.3.11",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.11/babyjournal-1.3.11.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.11/babyjournal-1.3.11.apk",
+  "size": 53213370,
+  "sha256": "4d4aef6019a35551d37b6984640091f54894fd46564ca9cf6498447171eb5285",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "优化漫游日期提示、信息流底部引导与图片清晰度及存储体验。",
-  "publishedAt": "2026-09-06 00:41:11"
+  "notes": "新增图片记录分享海报：使用极简背景模板动态合成日期、星期、照片、文案与可选里程碑标识；视频分享提示暂不支持。",
+  "publishedAt": "2026-09-06 21:30:04"
 }
