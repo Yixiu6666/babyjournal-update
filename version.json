@@ -1,12 +1,12 @@
 {
-  "versionCode": 47,
-  "versionName": "1.3.24",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.24/babyjournal-1.3.24.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.24/babyjournal-1.3.24.apk",
+  "versionCode": 48,
+  "versionName": "1.3.25",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.25/babyjournal-1.3.25.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.25/babyjournal-1.3.25.apk",
   "size": 53230637,
-  "sha256": "388267b20b88c7aa4520d4fa12a70e7b8f8773e98082998059c14f64e2ad6b82",
+  "sha256": "de7071aa98bf04482509db34bb69dd97ad1d80129a841f67d361cb0991e985f2",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "优化更多功能与记录操作弹层：保留原页面、统一半透明遮罩、移除上移动画并增加关闭按钮；二级提示保持在当前弹层上；清除出生日期仅在已选择日期后显示；词云心形调整得更宽、更饱满。",
-  "publishedAt": "2026-09-11 17:31:51"
+  "notes": "按标注范围同比放大词云；更多面板支持下滑关闭；从搜索、词云和导入记录等二级页面返回时恢复原更多面板。",
+  "publishedAt": "2026-09-11 17:41:11"
 }
