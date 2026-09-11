@@ -1,12 +1,12 @@
 {
-  "versionCode": 34,
-  "versionName": "1.3.11",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.11/babyjournal-1.3.11.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.11/babyjournal-1.3.11.apk",
-  "size": 53213370,
-  "sha256": "4d4aef6019a35551d37b6984640091f54894fd46564ca9cf6498447171eb5285",
+  "versionCode": 46,
+  "versionName": "1.3.23",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.23/babyjournal-1.3.23.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.23/babyjournal-1.3.23.apk",
+  "size": 53230566,
+  "sha256": "97d9327a851d6a9fd9c12dc6d58f4537120379c9842ba763a4cbc45177034487",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "新增图片记录分享海报：使用极简背景模板动态合成日期、星期、照片、文案与可选里程碑标识；视频分享提示暂不支持。",
-  "publishedAt": "2026-09-06 21:30:04"
+  "notes": "统一主题色与图标；修复月视图日期定位、收起后信息流位置和滚动异常；优化系统相册选择、记录操作蒙层、二级标题栏与更多功能菜单；放大并修正心形词云，历史结果改为独立页面。",
+  "publishedAt": "2026-09-11 15:59:38"
 }
