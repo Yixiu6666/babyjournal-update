@@ -1,12 +1,12 @@
 {
-  "versionCode": 64,
-  "versionName": "1.3.41",
-  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.41/babyjournal-1.3.41.apk",
-  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.41/babyjournal-1.3.41.apk",
-  "size": 53247099,
-  "sha256": "3d3feed0652ad4c1b9f52c055c1349f4e90ba196258c649fb5a9b2317af1f8f9",
+  "versionCode": 65,
+  "versionName": "1.3.42",
+  "url": "https://gitee.com/hbbb_310/babyjournal-update/releases/download/v1.3.42/babyjournal-1.3.42.apk",
+  "mirror": "https://github.com/Yixiu6666/babyjournal-update/releases/download/v1.3.42/babyjournal-1.3.42.apk",
+  "size": 53251195,
+  "sha256": "6b0510e979a9edad512e01d07581173d82b1d7ae505149c83bc6cf60c03180e2",
   "minSdk": 26,
   "package": "com.babyjournal.sunshine",
-  "notes": "交互动效全面打磨：按钮与图标即时按压反馈；底部弹窗改为升起/滑落对称动效，支持轻扫快速关闭并随手指速度收尾；日历与漫游卡片支持惯性甩动切换；页签切换淡入过渡，日历随滑动方向进入；关键操作加入轻触感（遵循系统振动设置）。功能与页面布局不变。",
-  "publishedAt": "2026-09-21 15:06:44"
+  "notes": "细节修复与手感统一：切页时底部栏保持稳定、仅内容淡入（时间线页同样生效）；设置面板改为升起入场，支持中途抓取与轻扫关闭；翻月箭头与轻扫同样带方向入场；搜索返回渐出。修复编辑器与弹窗关闭动画期间可重复触发操作的问题。功能与页面布局不变。",
+  "publishedAt": "2026-09-21 15:38:02"
 }
